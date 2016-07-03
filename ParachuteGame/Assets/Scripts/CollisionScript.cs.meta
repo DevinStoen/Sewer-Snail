@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: fdebcd5064d654e4d8090cf540e2637e
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - RetryButton: {instanceID: 0}
+  - DeadSnail: {instanceID: 0}
+  - punchSound: {fileID: 8300000, guid: 66e2748fdc7507f4899e8855b3eec505, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
